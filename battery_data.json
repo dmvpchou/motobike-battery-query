@@ -1,0 +1,6283 @@
+{
+    "PGO": [
+        {
+            "model": "車型",
+            "battery_spec": "適用電池規格",
+            "blue_knight_spec": "對應藍騎士規格"
+        },
+        {
+            "model": "Hello Kitty X-new J-bubu 45週年紀念版 115cc",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "New J-bubu 115 / ABS 115cc",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "J-bubu 115 ISS 經典版/ ABS 115cc",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "New J-bubu 125 / ABS 125cc",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "Alpha Max 125 / Naked 版 125cc",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "J-bubu 125 跑車特仕版/ ABS 125cc",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "Spring ABS / CBS 125cc",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "Tigra 200 ABS 200cc",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "BON 125 ABS 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "BON 125 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "BON 125 ABS 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "BON 125 ABS Plus 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Tigra 150 / ABS 150cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "ZAN ABS / CBS 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "TIG 180cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "BUGGY 600i 600cc",
+            "battery_spec": "YTX20A-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "TIGRA 250cc",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "飛將 90",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "HOT 90",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "PMX 90",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "MY BUBU 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "J-BUBU 115 ABS",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "J-BUBU 115 航海王特仕版",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "J-BUBU 115S 跑車特仕版",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "J-BUBU DOUS 115 雙座版",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "恰吉 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "TIGRA 彪虎 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "IBUBU 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "YOUNG BUBU 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "大悍 125/150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "TIGRA 150 魚眼特仕版",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "TIGRA 150 傍碳纖特仕版",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "G-MAX 150 水冷進化版",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "PGO X ONE PIECE 航海王特仕版",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "TIGRA 彪虎 150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "TIGRA 彪虎 150 ABS",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "J-BUBU 115 ABS (怠速)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "J-BUBU 115 航海王特仕版  (怠速)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "J-BUBU 115S 跑車特仕版  (怠速)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "IBUBU 125 (怠速)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "TIGRA 彪虎 125 (怠速)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "YOUNG BUBU 125 (怠速)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "TIGRA 150 魚眼特仕版 (怠速)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "TIGRA 150 傍碳纖特仕版 (怠速)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "G-MAX 150 水冷進化版 (怠速)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "TIGRA 彪虎 150 ABS (怠速)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "PGO X ONE PIECE 150 航海王特仕版 (怠速)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "TIGRA 彪虎 150 (怠速)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "BON 125 六期鼓煞",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "BON 125 碟煞 (無ISS配置)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "BON 125 鼓煞",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "BON 125 碟煞 (有ISS配置)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "BON 125 六期碟煞",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "BON 125 ABS",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "BON 125 ABS 六期",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "BON 125",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "大悍 125 (越野車)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ATV X3 250",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "I-ME WELBIKE (三輪)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "BUG RIDER 600i",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        }
+    ],
+    "AEON": [
+        {
+            "model": "車型",
+            "battery_spec": "適用電池規格",
+            "blue_knight_spec": "對應藍騎士規格"
+        },
+        {
+            "model": "OZ 125",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "ES 150",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "OZ 150",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "POLINI 150",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "DORY 125 ABS",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "ELITE 250",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ELITE 300 I",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "COIN 110",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "COIN 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "MY 150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "ELITE 300E",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "AEON 3D-350 (三輪)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        }
+    ],
+    "HARLEY": [
+        {
+            "model": "車型",
+            "battery_spec": "適用電池規格",
+            "blue_knight_spec": "對應藍騎士規格"
+        },
+        {
+            "model": "Super Low-XL883L",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "GHD14HL-BS"
+        },
+        {
+            "model": "Iron 883-XL883N",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "GHD14HL-BS"
+        },
+        {
+            "model": "1200 Custom-XL1200C",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "GHD14HL-BS"
+        },
+        {
+            "model": "Forty-Eight-XL1200X",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "GHD14HL-BS"
+        },
+        {
+            "model": "Street750-XG750",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "GHD14HL-BS"
+        },
+        {
+            "model": "Forty-Eight-XL1200X",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "GHD20HL-BS"
+        },
+        {
+            "model": "Fat Boy-FLSTF",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "GHD20HL-BS"
+        },
+        {
+            "model": "Fat Boy Special-FLSTFB",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "GHD20HL-BS"
+        },
+        {
+            "model": "Heritage-FLSTC",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "GHD20HL-BS"
+        },
+        {
+            "model": "Slim-FLS",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "GHD20HL-BS"
+        },
+        {
+            "model": "Breakout-FXSB",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "GHD20HL-BS"
+        },
+        {
+            "model": "Deluxe-FLSTN",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "GHD20HL-BS"
+        },
+        {
+            "model": "Sterrt Bob-FXDB",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "GHD20HL-BS"
+        },
+        {
+            "model": "Sterrt Bob",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "GHD20HL-BS"
+        },
+        {
+            "model": "Limited-FXDBC",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "GHD20HL-BS"
+        },
+        {
+            "model": "Fat Bob-FXDF",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "GHD20HL-BS"
+        },
+        {
+            "model": "Low Rider-FXDL",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "GHD20HL-BS"
+        },
+        {
+            "model": "Switchback-FLD",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "GHD20HL-BS"
+        }
+    ],
+    "CPI": [
+        {
+            "model": "車型",
+            "battery_spec": "適用電池規格",
+            "blue_knight_spec": "對應藍騎士規格"
+        },
+        {
+            "model": "ENDURO SM/SX 50",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "ENDURO SM 250 MMC",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GT 650",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "MINI RV 110",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "OLIVER 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "BRAVO 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "ARAGON 125",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "GTR 50",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "GTR 150/180",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "JW50/100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        }
+    ],
+    "KYMCO": [
+        {
+            "model": "車型",
+            "battery_spec": "適用電池規格",
+            "blue_knight_spec": "對應藍騎士規格"
+        },
+        {
+            "model": "Shadow 300",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "勁多利 150 (七期)",
+            "battery_spec": "YT9B-BS",
+            "blue_knight_spec": "MG9B-4-C"
+        },
+        {
+            "model": "Many 110 (七期)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Many 110",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Many 110 水鑽版 (2019新仕樣)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GP 125 ABS (七期)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GP 125 (七期)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "LIKE 125 ABS (七期)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "LIKE 125 (七期)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Famous 新名流 125 (七期)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Famous 新名流 125 ABS (七期)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GP 125 ABS",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GP 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "LIKE 125 (2020仕樣)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "LIKE 125 ABS (2020仕樣)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Famous 新名流 125 (2020仕樣)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Famous 新名流 125 ABS (2020仕樣)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "LIKE 150 (七期)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "LIKE 150 (七期)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "2022 新豪邁 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "NICE 100 (七期)",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "NICE 100",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "New Many 125 (七期)",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "Racing S 125 ABS (七期)",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "New Many 125 LED版",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "Racing S 125 ABS",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "Racing S 125 ABS (2020仕樣)",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "VJR 125 (2020仕樣)",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "Xsense 125 (七期)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "金牌 125 (七期)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "X SENSE 125",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "跑酷 125",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "金牌 125",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "LIKE COLOMBO 150 (七期)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Racing S 150 (七期)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "超級金牌 150 (七期)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "G6 150 ABS",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "G6 150 BREMBO",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Racing King 180",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Racing S 150 (2020仕樣)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Racing S 150 ABS 特仕版 (2020仕樣)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "超級金牌 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "新名流 150 (七期)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "新名流 150",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "KRV 180",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "DTX 360",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "CV3 550cc",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "AK550 550cc",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "DownTown350 TCS 350cc",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "Xciting S400 TCS 400cc",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "Gdink 300i 300cc",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "Krider 400 400cc",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "Nikita 300 300cc",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "勁多利 150 (Hercules)",
+            "battery_spec": "YT9B-BS",
+            "blue_knight_spec": "MG9B-4-C"
+        },
+        {
+            "model": "豪邁 FILLY 80",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "豪邁 80",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Man Boy 90",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Going 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Top Boy 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "豪邁得意 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "金翔鶴 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "得意 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "新得意 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "愛的 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "豪邁 50",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Kiwi 50",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "俏麗 Cherry 50/100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "So Easy 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Easy 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "如意 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "IDOL 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "翔鷹 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "翔羚 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "So Easy Fi 100",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "VJR 100 Fi",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Many 100 Fi",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "JR 100",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "JR 100 Fi",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Kiwi 100",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Easy 100 Fi",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Many 110",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Candy 110",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Cherry 100 Fi",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "豪邁 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "豪邁 Jockey 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "V1 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "V2 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "VP 125 ( 2010年後)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GP 125 ( 2010年後)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "金如意 Herself 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "勁暴 Hipster 150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "X-City 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Like 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Super Z 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "CUE 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "新名流 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "VRJ 50 (五期)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Many 50 (五期)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Going 100 (五期)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "鐵克諾 Techno 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "威風 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "金豪邁 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "如意 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "奔驣 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "頂尖豪邁 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "如意可動 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "鐵克諾 Techno 150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GP2 150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "豪邁 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "金牌奔驣 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "金勇 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "AIR 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Racing 125",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "豪邁 Jockey 125 Fi",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "豪漢 125/150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "妃三冠王 125/150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "奔驣 G5 125/150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "G6 125/150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "超 G5 125/150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "金牌2 125/150 (Jockey)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "勁 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "A博士 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Racing 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Racing 150 Fi",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "奔驣 G5 150 Fi",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "頂客 Dink 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "尊客 EGO 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Venox 250i",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "X-Sense 125",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "尊客 EGO 250",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "頂客 Dink 250",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "Venox 250",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "Xciting 250/300i",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "Xciting 400/500i",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "Myroad 700",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "酷龍 Quannon 150",
+            "battery_spec": "YT7B-BS / YT9B-BS",
+            "blue_knight_spec": "MG7B-BS / \nMG9B-4-C"
+        },
+        {
+            "model": "Romeo 125",
+            "battery_spec": "YT7B-BS / YT9B-BS",
+            "blue_knight_spec": "MG7B-BS / \nMG9B-4-C"
+        },
+        {
+            "model": "金勇 Grand King 125 Fi",
+            "battery_spec": "YT7B-BS / YT9B-BS",
+            "blue_knight_spec": "MG7B-BS / \nMG9B-4-C"
+        },
+        {
+            "model": "KTR 150",
+            "battery_spec": "YT7B-BS / YT9B-BS",
+            "blue_knight_spec": "MG7B-BS / \nMG9B-4-C"
+        },
+        {
+            "model": "頂客 Dink 180i",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "RACING 180",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "NIKITA 200/300I",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "K-XCT 300I",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "DownTown 300",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "Xciting 300",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "GP 125 Fi (2010年前)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "VP 125 (2010年前)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "CUE 125 Idle stop (啟停車)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "新名流 150",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        }
+    ],
+    "YAMAHA": [
+        {
+            "model": "車型",
+            "battery_spec": "適用電池規格",
+            "blue_knight_spec": "對應藍騎士規格"
+        },
+        {
+            "model": "Nmax",
+            "battery_spec": "YTZ7V",
+            "blue_knight_spec": "MG7ZS-C"
+        },
+        {
+            "model": "YZF-R15",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Axis (七期) Z",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Axis (七期) Zii",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Jog",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Vinoora",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Vinoora M",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Smax",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "Force",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "Cygnus-Xcynus Gryphus",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "Bw'Sr",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "Tricity",
+            "battery_spec": "YTZ7V",
+            "blue_knight_spec": "MG7ZS-C"
+        },
+        {
+            "model": "RS Neors Neo (七期)",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Limi (七期)",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Zaxis Z / Zii (七期) Z",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Jog Sweet 115",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "神雕 125 (電動)",
+            "battery_spec": "12N12A-4A-1",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "迎光 150",
+            "battery_spec": "YB7-A-2",
+            "blue_knight_spec": "MG7-A"
+        },
+        {
+            "model": "FZR 150",
+            "battery_spec": "YB7-A-2",
+            "blue_knight_spec": "MG7-A"
+        },
+        {
+            "model": "愛將 150",
+            "battery_spec": "YB7-A-2",
+            "blue_knight_spec": "MG7-A"
+        },
+        {
+            "model": "JOG 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "勁風50/90",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "FUN JOG 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "小丸子50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "BWS 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "PRO JOG 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "勁風90",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "PRO JOG 90",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "小 丸子100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "SUPER FOUR 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "CIAO 110",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "VINO 50",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "JOG 50/90",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "美的90(電動)(新)",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "RS 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "RSZ 100(四期環保)",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "大兜風100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "JOG CIAO 115",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "勁豪125",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Limi 115",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "BWS 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "JOG SWEET 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "VINO 90",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "CUXI 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "CUXI 115",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "迎光125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "VINO 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "MAJUSTY馬車125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "FLY-1 150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "勁風光",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "勁戰125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "SVMAX 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "BWS 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "迅光125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "風光125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GTR AERO 125",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "BWS X 125",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "RAY 125",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "SMAX 155",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "RSZ 100(五期環保)",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "BWS FI125",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "新勁戰125",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "GTR 125",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "Cygnus-X 125",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "BWS R 125",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "FORCE 155",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "MAJESTY 250",
+            "battery_spec": "YT9B-BS",
+            "blue_knight_spec": "MG9B-4-C"
+        },
+        {
+            "model": "CUXI IS 115(啓停車)",
+            "battery_spec": "YTZ7V",
+            "blue_knight_spec": "MG7ZS-C"
+        },
+        {
+            "model": "T-MAX 530",
+            "battery_spec": "TTZ12S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "T-MAX (526cc)",
+            "battery_spec": "TTZ12S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "T-MAX (292cc)",
+            "battery_spec": "TTZ12S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "YZF-R7 (689cc)",
+            "battery_spec": "YT9B-BS",
+            "blue_knight_spec": "MG9B-4-C"
+        },
+        {
+            "model": "YZF-R3 (321cc)",
+            "battery_spec": "TTZ8V",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "MT-09 (889cc)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "MT-07 (689cc)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "MT-03 (321cc)",
+            "battery_spec": "TTZ8V",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "Tenere (689cc)",
+            "battery_spec": "TTZ12S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "XSR 700 (689cc)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "X2",
+            "battery_spec": "12N12A-4A-1",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "XS650S Heritage Special",
+            "battery_spec": "12N14-3A",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "SR250,E,ES,Exciter",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "SRX250",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "XS250",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "XS360",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "XS400 (ALL)",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "XV500 Virago",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "XJ550 Maxim , R Seca",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "FJ600",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "FZ600",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "YX600 Radian",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "XJ600,H,N",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "TX650 (73)",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "XJ650 (ALL MODELS)",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "FZR400 (ALL)",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "XV400",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "FXR500",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "XV535 DX Virago",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "XV535,H,S,SE Virago",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "FZR600,E,RE,REC",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "FZR600 (89-93)",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "XT600Z",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "TX500",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XS500,E",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XZ550R Virago",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XZ550R Vision",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "TX650",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XS650,SE",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "FZ700,Fazer",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "FZX700 Fazer",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XJ700 Maxim",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XJ700X/S/XS",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XS750 (ALL)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "FZ750,Genesis",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "FZR750",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "FZR750RT Genesis",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "FZX750 Fazer",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XJ750 Maxim",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XJ750 Maxim/K",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XJ750 Seca",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XJ750M Midnight Maxim",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XJ750M Midnight Virago",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XJ750R Seca",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XTZ750,H,N Sup.Tenere",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XS850 (ALL)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XJ990,F",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XJ990R Seca",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "FZR1000",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "FZR1000 Exup",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "FJ1100",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "FJ1200",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XV700 Virago",
+            "battery_spec": "YB16AL-A2",
+            "blue_knight_spec": "MG16AL-A2"
+        },
+        {
+            "model": "XV700C",
+            "battery_spec": "YB16AL-A2",
+            "blue_knight_spec": "MG16AL-A2"
+        },
+        {
+            "model": "XV700SS",
+            "battery_spec": "YB16AL-A2",
+            "blue_knight_spec": "MG16AL-A2"
+        },
+        {
+            "model": "XV700 Virago (ALL)",
+            "battery_spec": "YB16AL-A2",
+            "blue_knight_spec": "MG16AL-A2"
+        },
+        {
+            "model": "VMX1200 V MAX",
+            "battery_spec": "YB16AL-A2",
+            "blue_knight_spec": "MG16AL-A2"
+        },
+        {
+            "model": "TX750",
+            "battery_spec": "YB16L-B",
+            "blue_knight_spec": "MG19L-BS"
+        },
+        {
+            "model": "XJ600、H、N",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "FZS600",
+            "battery_spec": "YT12B-BS",
+            "blue_knight_spec": "MG12B-4-C"
+        },
+        {
+            "model": "XV19SV、SVC、CTSV",
+            "battery_spec": "YT14B-BS",
+            "blue_knight_spec": "MG14B-4-C"
+        },
+        {
+            "model": "TT600S",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "XT600KH",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "WR250F-S",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "SRV250,G",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "XT250V",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "XTZ250",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "YBR250",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "YS250",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "R3 300cc",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "VP250",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "VP250R",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "V300",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "FZR400RR , RRSP",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "XJR400",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "XP500,A,W (T-MAX)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "XT500E",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "TT600E",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "XJ600N",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "XJ600S Diversion",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "XJ600S SecaII",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "XT600E,EH,EN",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "SZR660",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "FZR600R",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "YZF600FGC,RG,RW",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "YZF600R",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "Thunder Cat",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "XVF600RT,C",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "YZF750,SP",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "TDM850,N",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "TDM850",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "Burgman",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "XJ900P",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "XJ900S Diversion",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "R1000(91-95)",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "FZR1000 Exup (92-95)",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "YZF1000R,Thunderace",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "FJ200 (ALL)",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "XJR1200,SP",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "XV1600",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "Road Star (99-03)",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "1300/1600/1700 C.C.全部",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "TMAX530",
+            "battery_spec": "TTZ12S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "XT1200Z",
+            "battery_spec": "TTZ12S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "YZF-RIS",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "MT-07 (700.CC)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "FZS1000",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "ZJR1300",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "V-MAX",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        }
+    ],
+    "SYM": [
+        {
+            "model": "車型",
+            "battery_spec": "適用電池規格",
+            "blue_knight_spec": "對應藍騎士規格"
+        },
+        {
+            "model": "Racing S 125 ABS (2020仕樣)",
+            "battery_spec": "YT7B-BS",
+            "blue_knight_spec": "MG7B-4-C"
+        },
+        {
+            "model": "VJR 125 (2020仕樣)",
+            "battery_spec": "YTZ5S",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "Xsense 125 (七期)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "金牌 125 (七期)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Xsense 125",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "跑酷 125 (七期)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "LIKE Colonbo 150 (七期)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Racing S 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "超級金牌 125 (七期)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "G6 150 ABS",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "G6 150 Brenbo ABS",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Racing King 180",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Racing S 150 (2020仕樣)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Racing S 150 ABS 特仕版 (2020仕樣)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "超級金牌 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "新名流150 (七期)",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "新名流150",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "KRV 180",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "KRN BT 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "4MICA 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "4MICA 150 (158cc)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "MAXSYM 400",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "Fiddle LT",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Fiddle 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Fiddle DX 150cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Joymax Z 300cc",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "CRUISYM 300cc",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "野狼 T2 ABS 250cc",
+            "battery_spec": "YT12A-BS",
+            "blue_knight_spec": "MG12A-BS-C"
+        },
+        {
+            "model": "MAXSYM 500cc",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "野狼 SB300 ABS 300cc",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "DRG BT 158cc",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "RV 180 EURO",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "發財金 150",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "JET 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "JET SR 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "VEGA 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Z1 attila 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "全新迪爵 DUKE 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Z1 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "活力 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "FNX 125cc",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "野狼傳奇 125cc",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "野狼 125cc",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "Fiddle LT 115cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "WOO 100cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "WOO 115cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "奪標 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "領導 50 (新)",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "飛馳 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "皇家 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "大路易 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "新達可達 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "迪奧 ( DIO ) 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "風動 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "恰恰 CHA CHA 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "Fiddle 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "迪迪 50",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "大路易 90",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "高手 X'pro 50",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "風 50 EFI ( 五期 )",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "MIO 50/100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "風 50/100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "JET 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "SMILE 心情 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "新 PARTY 生活 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "飛馳 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "新金旺 100 EFI ( 五期 )",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "風梭 110",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "風動 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "高手 X'pro R1 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "極速高手 100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "飛梭 110",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "X'pro R1",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "WOWOW 100 EFI ( 五期 )",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "HUSKY 125",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "PARTY 100",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "高手100",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "WOO 100",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "X'pro RI 100 EFI ( 五期 )",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "IRX 115 EFI ( 五期 )",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "天王 ATTILA 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "世紀迪爵 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "火焰迪爵 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "金發財 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "MEGALO 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "風動 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Z1 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "金發財 150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "RI Z 150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GT 150 EFI",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Mii 110",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Mio 115",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "VIVO 活力 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "VEGA 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "RI 100Z",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "RX 110",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "迪爵125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "巡弋125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "阿帝拉125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Classic Duk 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "高手 X'pro 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "悍將125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GT 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "悍將Fighter 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "X'pro RI 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "X'pro RI Z 125(EFI)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "活力心情 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "風雲 125/150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "RI Z 150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "悍將 Fighter 4V 150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "悍將 Fighter Zero 4V 150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "悍將Fighter 4V 150ZR",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "發財高手150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "新高手",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Megalo",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "悍將4V 125Fi",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "迪爵150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "悍將 Fighter 4V 150 DX",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "悍將 4V F1 150 EFI",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "RV 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "RV 180 EFI",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "RV 180",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "悍將噴射 125",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "T1 150",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "T3 280",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "RV 250",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "RV 250 EFI",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "T2 250",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "FNX 125",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "Mio 50 EFI",
+            "battery_spec": "TTZ7SL",
+            "blue_knight_spec": "MG7ZS-C"
+        },
+        {
+            "model": "風50 EFI",
+            "battery_spec": "TTZ7SL",
+            "blue_knight_spec": "MG7ZS-C"
+        },
+        {
+            "model": "WOWOW (復古車) 100",
+            "battery_spec": "TTZ7SL",
+            "blue_knight_spec": "MG7ZS-C"
+        },
+        {
+            "model": "WOWOW 100 EFI",
+            "battery_spec": "TTZ7SL",
+            "blue_knight_spec": "MG7ZS-C"
+        },
+        {
+            "model": "新金旺100",
+            "battery_spec": "TTZ7SL",
+            "blue_knight_spec": "MG7ZS-C"
+        },
+        {
+            "model": "Mio 100 EFI",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "RI Z 100 EFI",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "Tini 100",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "風100 EFI",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "X'pro RI Z 100EFI",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "RX 110",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "GR 125",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "GT 125 EFI",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "Jet Power 4V 125 EFI",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "悍將 Fighter 4V 125 EF1",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "X'pro高手 125R EFI",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "金狼150 EFI",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "悍將 Fighter 4V 150 EFI",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "發財高手150 EFI",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "新野狼SB 300",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "高手Xpro R125",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        }
+    ],
+    "HONDA": [
+        {
+            "model": "車型",
+            "battery_spec": "適用電池規格",
+            "blue_knight_spec": "對應藍騎士規格"
+        },
+        {
+            "model": "CB250 R-S",
+            "battery_spec": "12N9-4B-1",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "CJ250 T、S",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "CM250",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "Custom",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "CM250 C",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "LTD",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "VTR250",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "Interceptor VTR",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "CJ360T",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "CB400T Hawki",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "CB250 G、K、N、ND",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB250 T",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB250 T2 Twin",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB350 Super Sport Four",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CL350 Scrambler",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "SL350 Motosport",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB350F、K",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB360 G、T、Scrambler",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CL360 Scrambler",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB400F  Super Sport",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB400 N、A、T HawkII",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "HawkII",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CBX400F/FII",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CM400A Hondamatic",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CM400C Custom",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CM400E / T",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "VF400",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB450.SS",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CL450 Scrambler",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB450SC",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB450SC Nighthawk / T",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB450SC Nighthawk / S",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB450T Hawk",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CM450A Hondamatic，E",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CM450C Custom E",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CMX450C，Rebel",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB500 Four，Twin",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CM500 Custom",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "VF500C V30 Magna",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "VF500C Shadow",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CX500F Interceptor",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "VT500E",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "V500FT Ascot",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB550 Four，K，SS",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CBX550F FII",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB650",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB650 C Custom",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB650 SC Custom",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB650 Custom",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB650Z",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "VF700C Magna",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "VF750C Magna",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "VF750C V45 Magna",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB450N",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB550",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB550 SC Nighthawk",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CBX600E",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB650 SC Nighthawk",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB650E Nighthawk",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "CB700 SC Nighthawk S",
+            "battery_spec": "YB14L-A1",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CBX750P2",
+            "battery_spec": "YB14L-A1",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB750SC",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CBX750F",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CBX750F II",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "VF750C Magna",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "VF750C V45 Magna",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "VF750C V45 Interceptor",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XLV750R",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XLV750R African Twin",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CX400 C",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CX50,C,D,E,T,TC",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "FT500 Ascon",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GL500 Intercept",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GL500",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "I Silver Wing",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CBX650E Nighthawk",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CX650 Euro,Turbo",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CX650T Turbo",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GL650 I Interstate",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GL650 Silver Wing",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GL650 Silver Wing Interstate",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB700SC",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "VF700S Sabre",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB750 KZ",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB750 Nighthawk",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB750,C,F,F2",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB750C Custom",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB750F Super Sport",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB750K",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB750K Limited Edition",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB750K Four",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB900 FZ80",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB900C,F",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB900F Bold'r",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB1000C Custom",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB1100F Bold'r,R,RII",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CB100F Super Sport",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CBR1000F Hurrivane",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "CBX1000、CBX1000(Opt.)",
+            "battery_spec": "YB18L-A",
+            "blue_knight_spec": ""
+        },
+        {
+            "model": "NSR250RR/R",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "XR250L,R",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "CRF250X",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "XR250L,R",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "NS400 R/Raiden",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "NS400R",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "SuperCub 110",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "SH150",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "CA250 T/TS",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "CB250",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "CB250 Nighthawk",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "CB250FV Hornet",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "VBR250RR",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "CBX250 TWISTER",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "CMX250 C Rebel",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "CMX250C3",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "NX250",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "VT250",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "VT250 C V-TWIN MAGNA",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "VT250CS",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "XR250 RORNADO",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "CB600 F,Hornet,ABS",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "CB600 SF",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "CB600F (599)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "CBF600N,NA",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "CBF600S,SA",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "Hornet600",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "CBX250 RS-YA",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "CD250 U",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "CB400F CB-1",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "CBR400RRR",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "NV400C",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "CB500S",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "CBR500F",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "NX500",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "CBR600",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "CBR600F,FII,FIII,SE",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "NTV600",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "NV600C",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Shadow600",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "VT600 C Shadow",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "VT600C,CD Shadow Deluxe VLX",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Deauville650",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "FX650",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "NT650 Hawk GT",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "NT650V",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "NTV650 Revere",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "NX650",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "NX650 Dominator",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "SLR650",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Vigor 650",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "XR650L",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "CR750 45",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "VF750C Magna(93-94)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "VFR750R(RC30)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "CBR900R,RR FireBlade",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "CH250",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "CH250 Elite",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "CN250 Helix , Fusion TypeXX",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "FES250V Foresight",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "NR",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "VF750C,C2,D Magna",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "PC800 Pacific Coast",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "VFR800F1",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "CB1100SF",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "CBR 1000RR/1100XX Blackbird",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "VTR 1000SPII",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "VTR 1000F Super Hawk",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "VTR 1000F",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "CB1000FT",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "CB1000F",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "CB1000",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "VFR750F",
+            "battery_spec": "YTX14AH-BS",
+            "blue_knight_spec": "MG14-A2-C"
+        },
+        {
+            "model": "VF750F V45 Interceptor",
+            "battery_spec": "YTX14AH-BS",
+            "blue_knight_spec": "MG14-A2-C"
+        },
+        {
+            "model": "CB450S",
+            "battery_spec": "YTX14AH-BS",
+            "blue_knight_spec": "MG14-A2-C"
+        },
+        {
+            "model": "XBR500,S",
+            "battery_spec": "YTX14AH-BS",
+            "blue_knight_spec": "MG14-A2-C"
+        },
+        {
+            "model": "Silver Wing",
+            "battery_spec": "YTX14AH-BS",
+            "blue_knight_spec": "MG14-A2-C"
+        },
+        {
+            "model": "XL600V",
+            "battery_spec": "YTX14AH-BS",
+            "blue_knight_spec": "MG14-A2-C"
+        },
+        {
+            "model": "CX650C Custom",
+            "battery_spec": "YTX14AH-BS",
+            "blue_knight_spec": "MG14-A2-C"
+        },
+        {
+            "model": "XRV650",
+            "battery_spec": "YTX14AH-BS",
+            "blue_knight_spec": "MG14-A2-C"
+        },
+        {
+            "model": "VF700C Magna(84-86)",
+            "battery_spec": "YTX14AH-BS",
+            "blue_knight_spec": "MG14-A2-C"
+        },
+        {
+            "model": "VF700F Interceptor",
+            "battery_spec": "YTX14AH-BS",
+            "blue_knight_spec": "MG14-A2-C"
+        },
+        {
+            "model": "VT700C Shadow",
+            "battery_spec": "YTX14AH-BS",
+            "blue_knight_spec": "MG14-A2-C"
+        },
+        {
+            "model": "Africa Twin",
+            "battery_spec": "YTX14AH-BS",
+            "blue_knight_spec": "MG14-A2-C"
+        },
+        {
+            "model": "VT800C Shadow",
+            "battery_spec": "YTX14AH-BS",
+            "blue_knight_spec": "MG14-A2-C"
+        },
+        {
+            "model": "NV400 DC Shadow",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "NV750,Shadow",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "RVF(RC45)",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "VT750C Shadow",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "VT750CD",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "VT750 CD2 Shadow Deluxe",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "VT750CDA,B,C,D Shadow,A.C.E Deluxe",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "XRV750 African Twin",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "Varadeo",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ST1100,A Police,Pan Eur.",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ST1100,ABS-TCS,1100A",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "VT1100 C2 Shadow Sabre",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "VT1100C,C3,T Shadow",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "Spirit,Aero,A.C.E.Tourer",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "1300 C.C.全部",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "GL1500 C(F6C)",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "GL150 Valkyrie",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "PC800 Pacific Coast",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "VR800FI",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "VT800C Interceptor",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "CB1000",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "CB1000F",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "CB1000FT",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "VF1100C V65 Magna",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "CB1000SF",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "CBR1100 XX Blackbird",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "CBX1000 Super Sport",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "VF1100S",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "V65 Sabre",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "VF1100C V65 Sabre",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "1800 C.C.全部",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "GL 1800F6C",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "NV400 Shadow",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "RCB400SF",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "CB400SB",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "CB400SS",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "07 CBR600RR",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "CB900 Hornet",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "CBR650F",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "18CB100R",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "18 NSS300",
+            "battery_spec": "TTZ10S",
+            "blue_knight_spec": "MG10ZS-C"
+        },
+        {
+            "model": "FJS600 Sliver",
+            "battery_spec": "TTZ12S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "CTX700",
+            "battery_spec": "TTZ12S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "VFR800",
+            "battery_spec": "TTZ12S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "CBR100XX",
+            "battery_spec": "TTZ12S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "CB1100EX",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "NSS300",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "NV750 Shadow",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "NC750X",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "INTEGRA 750",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "CTX1300",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "CB1300SB",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "CB1300",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "STX1300",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "Forza300",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "VT750RS",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "VFR800R/VFR800X (Y2017)",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "X-ADV",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        },
+        {
+            "model": "VFR800F",
+            "battery_spec": "TTZ14S",
+            "blue_knight_spec": "MG14ZS-C"
+        }
+    ],
+    "BMW": [
+        {
+            "model": "車型",
+            "battery_spec": "適用電池規格",
+            "blue_knight_spec": "對應藍騎士規格"
+        },
+        {
+            "model": "R60C",
+            "battery_spec": "12N14-3A",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "F650、650CS、GS、SF",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "800 C.C 全部",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "1200 C.C 全部",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "新 1200 C.C 全部",
+            "battery_spec": "YT19BL-BS",
+            "blue_knight_spec": "MG52113"
+        },
+        {
+            "model": "R80ET",
+            "battery_spec": 53030,
+            "blue_knight_spec": "MG53030"
+        },
+        {
+            "model": "R100CS、RS、RT、S、T",
+            "battery_spec": 53030,
+            "blue_knight_spec": "MG53030"
+        },
+        {
+            "model": "R150",
+            "battery_spec": 51913,
+            "blue_knight_spec": "MG52113"
+        },
+        {
+            "model": "K1200 Cruiser、GT、LT、RS、S",
+            "battery_spec": 51913,
+            "blue_knight_spec": "MG52113"
+        }
+    ],
+    "KAWASAKI": [
+        {
+            "model": "車型",
+            "battery_spec": "適用電池規格",
+            "blue_knight_spec": "對應藍騎士規格"
+        },
+        {
+            "model": "EN500-C Vulcan LTD",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "ZX750-H Ninja ZX-7(90)",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "ZX750-JI",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "ZXR750(ZXR750H)",
+            "battery_spec": "YB12AL-A2",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "EX4 (EX400 A2/A3,B)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GPZ400S(EX400A)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "EN500D Ninja 500R",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "EX500",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "EX500-A",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "EX500-D Ninja 500R",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GPZ500S (EN500D,E,F)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KL600-B KLR",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KL600R,KLR600B(KL600B)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KL650-A,E,KLR",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KL650-B Tengai",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KLR650 (KL650A)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KLR650C",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "Tengai",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "VN700-A Vulcan",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZN700 LTD (ZN700A)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZN700-A LTD",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GPX750R (ZX750F)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GPZ750A,E,G",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GPZ750",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GPZ750R Ninja (XZ750G)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KZ750B,G LTD",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KZ750D",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KZ750-F LTD,Spectre",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KZ750L LTD K1",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KZ750Y LTD YI-YII",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "VN750-A Vulcan",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZN-750-A LTD",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZX750-F Ninja",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZX750-H Ninja ZX-7",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZX750H ZXR HI Stinger",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GPZ900R ( ZX900A)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZL900-A Eliminator",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZX900A Ninja",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "Z1 Series",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GPZ1000RX A",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KZ1000A",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KZ1000B LTD",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KZ1000-C Police,Z1-R",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "KZ1000-G Classis",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "Z1000 MK2",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "Z1000A,B,C,D,G",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "Z1-R (KZ1000D)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZL1000A Eliminator",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZX10 B Tomca",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZX10000-A Ninja",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZX10R",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZN1100-B LTD",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZX-11 (ZX1100C) Ninja",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZX1100-C Ninja ZX-11",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "ZZR1100EU(ZXT10C)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "EN400-Twin",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "EN400B Vulcan",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "FX400R (ZX400A)",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "KX400H",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "KZ400J",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "Z400 Custom (KZ400B)",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "ZX400H",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "KZ400 Deluxe",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "KZ400-D,H",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "Z400LTD-II ( KZ400H,K)",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "440/450 C.C.全部",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "EN500 LTD",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "EN500-A Velcan",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "KZ500B",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "GPZ550",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "GT550",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "KZ550,LTD,GP",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "KZ550B,B,G,LTD,GP",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "LTD550 C1",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "LTD550 C2/C3/C4",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "ZR550A",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "ZR550B Zephyr",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "GPX660C Warbird",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "GPZ600R (ZX600A)",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "ZL600A Eliminator",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "ZX600-A,B,C,D Ninja",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "ZX600D ZZR",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "GP650R",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "KZ650-H CSR",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "KZ700-A",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "GPZ750R",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "KZ750-E,H,L,LTD",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "KZ750 H LTD,L LTD,GP",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "KZ750R L-III-L IV",
+            "battery_spec": "YB12A-A",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "A1 Series",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "A7 Series",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "H1 Series (62-72)",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "EL250 D,E,F",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "EL250,HS",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "EL252",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "EX250 Ninja",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "GPX250R EX250 F2-F8",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "GPX250R-II (EX250G1)",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "GPZ250 EX250H1-H4",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "Z250 GP C1",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "ZXR250,R (ZX250H)",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "EX305 A1,B GP",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "GPZ305",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "ER250 A",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "ER250 B2-B3",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "H1 Series",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "KH500-A",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "KLE400 (LE400A)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "VN400A,C Vulcan",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZR400C,G Zephyr",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZZ-R400 (ZX400N)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ER5 (ER500A,B)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ER525KW",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "KLE500 (LE500)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "VLE500A",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZR550B Zephyr (94-97)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZZ-R500 Ninja (ZX500D)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZX600 G/H/R",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZX600D ZZR Ninja",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZX600-E,F Ninja ZX-6,6R",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "XZ600F ZX-6R Ninja",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZZR600 (02-04)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ER6,F,N",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ER650-A,B",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "EX650-A,B",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "KLE650,A,B (Versys)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "Ninja 650R",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZR-7,S (ZR750)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZR750-C Zephyr",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZR750C,D Zephyr F",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZX750-J Ninja ZX-7",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZX750-P Ninja ZX-7R",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZX-7R,P Ninja",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZXR750 (ZX750L)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZXR750R (ZX750K,M)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "VN800-A,B,E Vulcan",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "Classis,Drifter",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "VN900,B,C,D",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "Vulcan 900 Classis A1 Series",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "H1 Series (69-72)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "EL252",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "EX250 Ninja",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GPX250R EX250 F2-F8",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GPX250R-II",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GPZ250 EX250H1-H4",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "Z250 GP C1",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZXR250,R (ZX250A,C)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZZ-R (EX250H)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "EX305 A1,B GP",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GPZ305",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ER205 A",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ER250 B2-B3",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "H1 Series",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "KH550-A",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "ZX-9R",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "EJ650",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "W650",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "VN800 A/B/D",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "VN800-A,B,C,E Vulcan",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "NHClassic,Drifter",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "GPZ1100 ( ZXT10,E,F)",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZRX1100",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZRX1100/II (ZRT10C,D)",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZX-11 (ZX1100D1) Ninja",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZX1100-D Ninja ZX-11",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZX1100-D Ninja ZX-11 (CN)",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZX1100-E (GPz1100),ABS",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZRX1100C",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZZR1100EU",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZRX1200R",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZRX1200R/S (ZRT20A/B)",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZX-1200A1",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZX-12R",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZZR1200 (ZXT20C)",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZG1400 Concours",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "ZX14 Ninja",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "Zephyr1100 (ZRT10A)",
+            "battery_spec": "YTX16-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "ZR1100",
+            "battery_spec": "YTX16-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "ZR1100A,B",
+            "battery_spec": "YTX16-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "1500 C.C.全部",
+            "battery_spec": "YTX16-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "1600 C.C.全部",
+            "battery_spec": "YTX16-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "2000 C.C.全部",
+            "battery_spec": "YTX16-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "KZ1000P Police",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "KZ1000-C Police",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "KZ1000E ST,Shaft",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "KZ1000-P Police",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "KZ1000-R Police",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "ZG1000-A Concours",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "GT1000A",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "KZ1100-A,LTD",
+            "battery_spec": "YTX20L-BS",
+            "blue_knight_spec": "MG20HL-BS-C"
+        },
+        {
+            "model": "EX250 Ninja 250R",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "250TR (BJ250F)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "D-TRACKER (LX250E)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "EL250 A,B,C Eliminator",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "EX250 Ninja (95-07)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "GPZ250R EX250 F9-F13",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "GPZ250R EX250 H5-H9",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "KL250 Super Sherpa",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "KL250G,H Super Sherpa",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "KE250 Anhelo (LE250A)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "KL250ES G1/G2",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "KLX250S",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "ZR250A,B Balius",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "ZZ-R (EX250H) (99-02)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "Estrella-BJ250 A2,A3,C2,C3",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZR400D Xanthus",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZRX-II",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZR400,R (ZX400M,L)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZX600-G,J Ninja ZX-6R",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZX600-K,M,N Ninja ZX-6RP",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZX-6R Ninja (ZX636A)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZR600 (05-08) (98-02)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZX636,B,C Ninja ZX-6R",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "KLC650C,R",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "LX650 (LX650C)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "KZ750-L Ninja K",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Z750",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZX750 Ninja ZX,7RR",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZX-7RR Ninja",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZXR750,R (ZX750J)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "X900-E,F Ninja (ZX-9R)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZX900-C Ninja (ZX-9R)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZX9R (ZX900C,D) Ninja",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "ZX-9R (ZX900E,F) Ninja",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "Z1000",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "07 KLR650",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "06 ZX-10R",
+            "battery_spec": "YT12B-BS",
+            "blue_knight_spec": "MG12B-4-C"
+        },
+        {
+            "model": "KZ400A Delux",
+            "battery_spec": "12N12A-4A-1",
+            "blue_knight_spec": "MG12AL-A2"
+        },
+        {
+            "model": "Z1000ST",
+            "battery_spec": "YB16L-B",
+            "blue_knight_spec": "MG19L-BS"
+        },
+        {
+            "model": "GPZ1100A Unitrak",
+            "battery_spec": "YB16L-B",
+            "blue_knight_spec": "MG19L-BS"
+        },
+        {
+            "model": "KZ1100-B GP",
+            "battery_spec": "YB16L-B",
+            "blue_knight_spec": "MG19L-BS"
+        },
+        {
+            "model": "Z1100-A GPz",
+            "battery_spec": "YB16L-B",
+            "blue_knight_spec": "MG19L-BS"
+        }
+    ],
+    "哈特佛": [
+        {
+            "model": "車型",
+            "battery_spec": "適用電池規格",
+            "blue_knight_spec": "對應藍騎士規格"
+        },
+        {
+            "model": "VITA 300",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "雲豹 233H 250cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "雲豹 UK450 (RA01B) 450cc",
+            "battery_spec": "YT12B-BS",
+            "blue_knight_spec": "MG12B-4-C"
+        },
+        {
+            "model": "My Dream 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "小雲豹 Mini 125 Fi",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "雲豹 HD 150 C-Fi",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "灰狼 HD 150 C-Fi",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "獵豹 150 Fi",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "天狠星 (五期噴射) 150 Fi",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Neko 100",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "PET 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "大黃蜂 150 Fi",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Mact 150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Sniper 150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "夜鷹 Night Hawk 320 Fi",
+            "battery_spec": "YB9-B",
+            "blue_knight_spec": "MG9-4B-C"
+        },
+        {
+            "model": "Diablo 650 Fi",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        }
+    ],
+    "SUZUKI": [
+        {
+            "model": "車型",
+            "battery_spec": "適用電池規格",
+            "blue_knight_spec": "對應藍騎士規格"
+        },
+        {
+            "model": "Saluto 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Swish 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "New NEX 125cc",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GSX BANDIT 150cc",
+            "battery_spec": "TTZ6V",
+            "blue_knight_spec": ""
+        },
+        {
+            "model": "GSX-R 150cc",
+            "battery_spec": "TTZ6V",
+            "blue_knight_spec": ""
+        },
+        {
+            "model": "GSX-S 150cc",
+            "battery_spec": "TTZ6V",
+            "blue_knight_spec": ""
+        },
+        {
+            "model": "Address 110cc",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "星鑑100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "金赢家100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "星河100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "X星鑑125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "銀河GSR 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "遨遊125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "SWING 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "MUSIC 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "極速星鑑150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "飛速星鑑150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "歐風50",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "新貴50",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "莎士比亞50/100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "贏家50/100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "新鋒100",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "贏將125",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "星鑑幻象125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Address Z 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Address V 125G",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "NEX 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GSR 125",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "星鑑125/150",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Gixxer 250 (249cc)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "Gixxer SF 250 (249cc)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "BURGMAN 200 (200cc)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "BURGMAN 400 (400cc)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "隼 HAYABUSA (1340cc)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GSX-S1000S (999cc)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GSX-R1000R (1000cc)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GSX-S750 (749cc)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "V-Strom 650 XT (645cc)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "V-Strom 1050 XT (1037cc)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "SV-650 ABS (645cc)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GSX-S1000F ABS (1000cc)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GR650",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "Tempter,X",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "G650,E,G,GLX,GTZ",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "XN85 Turbo",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GS700E,GS700ES",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GS750,D,E,ES,L,S,T,Katana",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GSX750E,EF,ES,L",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GSX750EG Silver Suzi",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GSX750S Katana",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GSX-R750",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GT750 LeMans",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GS850G,GL,GT,GZ",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GS1100G,K,L,Katana",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GSX1100SZ",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GSX-R1100",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "LS650 Savege,S40",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "LS650,F,P Savage",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "LS650,F,P Savage (95-01)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "LS650,F,P Savage (86-94)",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GV700GL Madura",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "DR750S,SU Big",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GSX750F Katana",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "DR800ST",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GSX1100F Katana",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GS1150E,ES,S",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "GV1200GL Marauder",
+            "battery_spec": "YB14L-A2",
+            "blue_knight_spec": "MG14L-A2-C"
+        },
+        {
+            "model": "RGV250",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "DR350S,SH",
+            "battery_spec": "YTX4L-BS",
+            "blue_knight_spec": "MG5ZS"
+        },
+        {
+            "model": "DR250",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "RG500 Gamama",
+            "battery_spec": "YTX5L-BS",
+            "blue_knight_spec": "MG5L-BS-C"
+        },
+        {
+            "model": "AN250 Burgman",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "AN250 Sky Wave",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "DR250S(Europe)",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "Dr250S EP,ER,ES",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GSF250",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GSX250F,S",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "VL400",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "VZ400",
+            "battery_spec": "YTX7A-BS",
+            "blue_knight_spec": "MG7A-BS-C"
+        },
+        {
+            "model": "GZ250",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "GZ250 Marauder",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "ST250",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "TU250G",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "VL250",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "DR350SE",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "GSX400FS Inazuma",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "GSF600,S,SU,U,UII",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GSG600S Bandit",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GSR600",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GSX-R600V,W",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "RF600R,RU,S",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "VS600GLS",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "DR650SE",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "DR650SE(CN)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "SF650/U",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GSX650,F",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "XF650 Freewind",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GSX750F Katana (98-06)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GSX-R750",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GSX-R750,W (94-95)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "RF900<R,RR,S,ZS",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "AN400 Burgman",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GS400,E",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GS400X (91-95)",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GSF400 Bandit",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GSF400 M",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GSR400",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GSX400FS Inazuma",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "GSX-R400R,RF",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "SV400S",
+            "battery_spec": "YTX9-BS",
+            "blue_knight_spec": "MG9-BS-C"
+        },
+        {
+            "model": "DR650RE,REU",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "DR650S ER,ES",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "SV650,S,A,SA",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GSX750P",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GSX-750,W",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "VL800 Intruder Volusia",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "Boulevard",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "C50,T,M50",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "VZ800 Marauder",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GSX-R1000",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "TL1000S",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GSX-R1100W",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "TL1000S V",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "Bandit1200S",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GS1200SS",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GSF1200,S,SA Bandit",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GSX1200",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GSX1300BK",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "B-King",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "GSX1300R,Z Hayabusa",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "An650 ABS Burgman",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "An650 Burgman",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "DL650 V-Strom",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "DR650RSE,RSEU",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "DR800S,SU Big",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "DL1000",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": " V-Strom",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "SV1000,S",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "GS1100G",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "GSX1100G",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "GSX1400",
+            "battery_spec": "YTX14-BS",
+            "blue_knight_spec": "MG14-BS-C"
+        },
+        {
+            "model": "Marauder,Boulevard M95",
+            "battery_spec": "YTX16-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "VL1500",
+            "battery_spec": "YTX16-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        },
+        {
+            "model": "VZR1800",
+            "battery_spec": "YTX20-BS",
+            "blue_knight_spec": "MG20CH-BS-C"
+        }
+    ],
+    "VESPA": [
+        {
+            "model": "車型",
+            "battery_spec": "適用電池規格",
+            "blue_knight_spec": "對應藍騎士規格"
+        },
+        {
+            "model": "LX 125 FL (124cc)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "Primavera 125 (124cc)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "Primavera S 125 (124cc)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "Sprint S 150 (149cc)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "Vespa Sprint S 150 TFT (149cc)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "Sprint 125 (124cc)",
+            "battery_spec": "YTX7L-BS",
+            "blue_knight_spec": "MG8ZV-C"
+        },
+        {
+            "model": "GTS 300 Super (278cc)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        },
+        {
+            "model": "SEI GIORNI 300 (278cc)",
+            "battery_spec": "YTX12-BS",
+            "blue_knight_spec": "MG12-BS-C"
+        }
+    ]
+}
